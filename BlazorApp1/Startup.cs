@@ -19,6 +19,7 @@ namespace BlazorApp1
         {
             Configuration = configuration;
 
+
         }
 
         public IConfiguration Configuration { get; }
